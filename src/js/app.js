@@ -1,3 +1,5 @@
+import '../css/main.scss';
+
 const object = {
     id: 1,
     number: 5555,
