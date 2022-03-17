@@ -1,7 +1,9 @@
 {
   "name": "webpack",
   "version": "1.0.0",
-  "description": "",
+  "description": "Starter pack for Webpack Projects",
+  "author": "Romain Blary",
+
   "main": "index.js",
   "private": true,
   "scripts": {
